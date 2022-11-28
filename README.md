@@ -8,5 +8,5 @@ scientific studies through data citation (DOI). The data from this project are t
 The data to be handled by the portal involve: data
 weather, air quality, monitoring of subsoil gases, operation of remediation systems, monitoring of growth and carbon fixation by trees, soil moisture, electricity consumption, water consumption and waste generation.
 
-<img src="https://github.com/rosaencinas/ProjSGA/blob/main/figure/maininterface.png" width="350" title="Interface Data Portal">
+<img src="https://github.com/rosaencinas/ProjSGA/blob/main/figure/maininterface.png" width="100%" title="Interface Data Portal">
 
